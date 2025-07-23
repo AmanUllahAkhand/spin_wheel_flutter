@@ -25,3 +25,10 @@ This project was created as part of my learning process to:
 - `Transform.rotate` for wheel spin effect
 
 
+## 🎥 Demo Video
+
+[▶️ Click here to watch the result](assets/demo/spin_result.mp4)
+
+
+
+
