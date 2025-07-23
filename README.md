@@ -27,7 +27,7 @@ This project was created as part of my learning process to:
 
 ## 🎥 Demo Video
 
-[▶️ Click here to watch the result](assets/demo/spin_result.mp4)
+[▶️ Click here to watch the result](assets/demo/demo.mp4)
 
 
 
