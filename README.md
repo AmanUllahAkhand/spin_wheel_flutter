@@ -1,16 +1,27 @@
-# spin_wheel_ui
+# 🎯 Spin Wheel App (Flutter)
 
-A new Flutter project.
+This is a **Flutter practice project** built with a **Clean Architecture** approach. It displays a colorful spinning wheel with random value selection and smooth animation. Built for fun, learning, and UI experimentation.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🧠 Purpose
 
-A few resources to get you started if this is your first Flutter project:
+This project was created as part of my learning process to:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Understand clean architecture layers (core, features, presentation, domain, data)
+- Implement a custom **spin animation**
+- Practice **canvas drawing** using `CustomPainter`
+- Build **modular, reusable components**
+- Prepare for real-world scalable Flutter applications
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🔧 Tech Stack
+
+- **Flutter** 🐦
+- **Clean Architecture**
+- `CustomPainter` 🎨
+- `AnimationController`
+- `Transform.rotate` for wheel spin effect
+
+
